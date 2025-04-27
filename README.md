@@ -16,7 +16,7 @@
 - Пауза/перезапуск без последствий.
 
 **Ссылки:**  
-- [Скрипты для учебника (GitHub)](https://github.com/screeps/tutorial-scripts)
+- [Скрипты для учебника (GitHub)](https://github.com/TheKilloboy/Screeps-Tutorial-JavaScript-Coding-Basics/tree/main/tmp)
 - [Базовый курс JavaScript](https://www.codecademy.com/learn/learn-javascript)
 
 ---
